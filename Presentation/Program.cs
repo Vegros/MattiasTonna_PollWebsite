@@ -36,7 +36,7 @@ namespace MattiasTonnaEPSolution
             }
             app.UseHttpsRedirection();
             app.UseStaticFiles();
-
+            app.MapRazorPages();
             app.UseRouting();
 
             app.UseAuthentication();

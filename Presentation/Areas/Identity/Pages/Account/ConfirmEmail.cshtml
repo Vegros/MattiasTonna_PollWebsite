@@ -1,0 +1,16 @@
+﻿@page
+@model ConfirmEmailModel
+@{
+    ViewData["Title"] = "Confirm Email";
+}
+
+<div class="container d-flex justify-content-center align-items-center" style="min-height: 100vh;">
+    <div class="frosted-glass text-center p-4 p-md-5" style="max-width: 600px; width: 100%;">
+        <div class="mb-4">
+            <h2 class="fw-bold mt-3 mb-2">Email Confirmed</h2>
+            <p class="text-light">Thanks for confirming your email. You're all set to login and start voting!</p>
+        </div>
+
+        <a href="/Identity/Account/Login" class="btn btn-primary btn-lg glowing-btn px-4 py-2">Go to Login</a>
+    </div>
+</div>
