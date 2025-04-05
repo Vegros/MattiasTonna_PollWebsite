@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Identity.UI;
 using DataAccess.Repositories;
 using Presentation.Controllers;
 using Domain.Interfaces;
-using Presentation;
+using Presentation.ActionFilters;
 
 namespace MattiasTonnaEPSolution
 {
@@ -59,6 +59,10 @@ namespace MattiasTonnaEPSolution
             builder.Services.AddRazorPages();
             builder.Logging.AddConsole();
             builder.Services.AddScoped<HasNotVotedFilter>();
+            builder.WebHost.ConfigureKestrel(serverOptions =>
+            {
+                serverOptions.ListenAnyIP(5000);
+            });
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
@@ -70,7 +74,7 @@ namespace MattiasTonnaEPSolution
             app.UseStaticFiles();
             app.MapRazorPages();
             app.UseRouting();
-
+          
             app.UseAuthentication();
             app.UseAuthorization();
 
