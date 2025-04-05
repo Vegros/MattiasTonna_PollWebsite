@@ -1,0 +1,41 @@
+[
+  {
+    "Id": 1,
+    "Title": "test",
+    "Option1Text": "test",
+    "Option2Text": "test",
+    "Option3Text": "test",
+    "Option1VotesCount": 0,
+    "Option2VotesCount": 0,
+    "Option3VotesCount": 0,
+    "DateCreated": "2025-04-05T12:45:01.4297105Z",
+    "CreatedByUserId": "b44a8731-91a9-4472-be6d-378ef07499fd",
+    "CreatedByUser": null
+  },
+  {
+    "Id": 2,
+    "Title": "adssda",
+    "Option1Text": "adsdas",
+    "Option2Text": "asdads",
+    "Option3Text": "asasddasd",
+    "Option1VotesCount": 0,
+    "Option2VotesCount": 0,
+    "Option3VotesCount": 0,
+    "DateCreated": "2025-04-05T12:59:19.0005799Z",
+    "CreatedByUserId": "b44a8731-91a9-4472-be6d-378ef07499fd",
+    "CreatedByUser": null
+  },
+  {
+    "Id": 3,
+    "Title": "hello",
+    "Option1Text": "hello",
+    "Option2Text": "hello",
+    "Option3Text": "hello",
+    "Option1VotesCount": 0,
+    "Option2VotesCount": 0,
+    "Option3VotesCount": 0,
+    "DateCreated": "2025-04-05T14:43:59.4386208Z",
+    "CreatedByUserId": "b44a8731-91a9-4472-be6d-378ef07499fd",
+    "CreatedByUser": null
+  }
+]

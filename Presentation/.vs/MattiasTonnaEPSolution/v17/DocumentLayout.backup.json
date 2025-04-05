@@ -3,68 +3,94 @@
   "WorkspaceRootPath": "C:\\Users\\matti\\Desktop\\assignment enterprise\\Presentation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9C099220-10F7-4DB4-9986-E62B4F9AC52A}|Presentation.csproj|c:\\users\\matti\\desktop\\assignment enterprise\\presentation\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9C099220-10F7-4DB4-9986-E62B4F9AC52A}|Presentation.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9C099220-10F7-4DB4-9986-E62B4F9AC52A}|Presentation.csproj|c:\\users\\matti\\desktop\\assignment enterprise\\presentation\\controllers\\pollcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C099220-10F7-4DB4-9986-E62B4F9AC52A}|Presentation.csproj|solutionrelative:controllers\\pollcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C099220-10F7-4DB4-9986-E62B4F9AC52A}|Presentation.csproj|c:\\users\\matti\\desktop\\assignment enterprise\\presentation\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9C099220-10F7-4DB4-9986-E62B4F9AC52A}|Presentation.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{60322AD5-7257-4D94-9574-0BC4855A6229}|..\\DataAccess\\DataAccess.csproj|c:\\users\\matti\\desktop\\assignment enterprise\\dataaccess\\repositories\\pollrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C099220-10F7-4DB4-9986-E62B4F9AC52A}|Presentation.csproj|c:\\users\\matti\\desktop\\assignment enterprise\\presentation\\areas\\identity\\pages\\account\\confirmemail.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C099220-10F7-4DB4-9986-E62B4F9AC52A}|Presentation.csproj|solutionrelative:areas\\identity\\pages\\account\\confirmemail.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{60322AD5-7257-4D94-9574-0BC4855A6229}|..\\DataAccess\\DataAccess.csproj|c:\\users\\matti\\desktop\\assignment enterprise\\dataaccess\\repositories\\pollfilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C099220-10F7-4DB4-9986-E62B4F9AC52A}|Presentation.csproj|c:\\users\\matti\\desktop\\assignment enterprise\\presentation\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C099220-10F7-4DB4-9986-E62B4F9AC52A}|Presentation.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9B616542-90CE-4F01-952D-10394FCAAB21}|..\\Domain\\Domain.csproj|c:\\users\\matti\\desktop\\assignment enterprise\\domain\\interfaces\\ipollrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C099220-10F7-4DB4-9986-E62B4F9AC52A}|Presentation.csproj|c:\\users\\matti\\desktop\\assignment enterprise\\presentation\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9C099220-10F7-4DB4-9986-E62B4F9AC52A}|Presentation.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9B616542-90CE-4F01-952D-10394FCAAB21}|..\\Domain\\Domain.csproj|c:\\users\\matti\\desktop\\assignment enterprise\\domain\\models\\poll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C099220-10F7-4DB4-9986-E62B4F9AC52A}|Presentation.csproj|c:\\users\\matti\\desktop\\assignment enterprise\\presentation\\areas\\identity\\pages\\account\\registerconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C099220-10F7-4DB4-9986-E62B4F9AC52A}|Presentation.csproj|solutionrelative:areas\\identity\\pages\\account\\registerconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C099220-10F7-4DB4-9986-E62B4F9AC52A}|Presentation.csproj|c:\\users\\matti\\desktop\\assignment enterprise\\presentation\\areas\\identity\\pages\\account\\confirmemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9C099220-10F7-4DB4-9986-E62B4F9AC52A}|Presentation.csproj|solutionrelative:areas\\identity\\pages\\account\\confirmemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C099220-10F7-4DB4-9986-E62B4F9AC52A}|Presentation.csproj|c:\\users\\matti\\desktop\\assignment enterprise\\presentation\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{9C099220-10F7-4DB4-9986-E62B4F9AC52A}|Presentation.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C099220-10F7-4DB4-9986-E62B4F9AC52A}|Presentation.csproj|c:\\users\\matti\\desktop\\assignment enterprise\\presentation\\areas\\identity\\pages\\account\\registerconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9C099220-10F7-4DB4-9986-E62B4F9AC52A}|Presentation.csproj|solutionrelative:areas\\identity\\pages\\account\\registerconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C099220-10F7-4DB4-9986-E62B4F9AC52A}|Presentation.csproj|c:\\users\\matti\\desktop\\assignment enterprise\\presentation\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9C099220-10F7-4DB4-9986-E62B4F9AC52A}|Presentation.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C099220-10F7-4DB4-9986-E62B4F9AC52A}|Presentation.csproj|c:\\users\\matti\\desktop\\assignment enterprise\\presentation\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9C099220-10F7-4DB4-9986-E62B4F9AC52A}|Presentation.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9B616542-90CE-4F01-952D-10394FCAAB21}|..\\Domain\\Domain.csproj|c:\\users\\matti\\desktop\\assignment enterprise\\domain\\models\\vote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9C099220-10F7-4DB4-9986-E62B4F9AC52A}|Presentation.csproj|c:\\users\\matti\\desktop\\assignment enterprise\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C099220-10F7-4DB4-9986-E62B4F9AC52A}|Presentation.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C099220-10F7-4DB4-9986-E62B4F9AC52A}|Presentation.csproj|c:\\users\\matti\\desktop\\assignment enterprise\\presentation\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9C099220-10F7-4DB4-9986-E62B4F9AC52A}|Presentation.csproj|solutionrelative:areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9C099220-10F7-4DB4-9986-E62B4F9AC52A}|Presentation.csproj|c:\\users\\matti\\desktop\\assignment enterprise\\presentation\\hasnotvotedfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C099220-10F7-4DB4-9986-E62B4F9AC52A}|Presentation.csproj|solutionrelative:hasnotvotedfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C099220-10F7-4DB4-9986-E62B4F9AC52A}|Presentation.csproj|c:\\users\\matti\\desktop\\assignment enterprise\\presentation\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{9C099220-10F7-4DB4-9986-E62B4F9AC52A}|Presentation.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C099220-10F7-4DB4-9986-E62B4F9AC52A}|Presentation.csproj|c:\\users\\matti\\desktop\\assignment enterprise\\presentation\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C099220-10F7-4DB4-9986-E62B4F9AC52A}|Presentation.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C099220-10F7-4DB4-9986-E62B4F9AC52A}|Presentation.csproj|c:\\users\\matti\\desktop\\assignment enterprise\\presentation\\polls.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9C099220-10F7-4DB4-9986-E62B4F9AC52A}|Presentation.csproj|solutionrelative:polls.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9C099220-10F7-4DB4-9986-E62B4F9AC52A}|Presentation.csproj|c:\\users\\matti\\desktop\\assignment enterprise\\presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{9C099220-10F7-4DB4-9986-E62B4F9AC52A}|Presentation.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C099220-10F7-4DB4-9986-E62B4F9AC52A}|Presentation.csproj|c:\\users\\matti\\desktop\\assignment enterprise\\presentation\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9C099220-10F7-4DB4-9986-E62B4F9AC52A}|Presentation.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C099220-10F7-4DB4-9986-E62B4F9AC52A}|Presentation.csproj|c:\\users\\matti\\desktop\\assignment enterprise\\presentation\\views\\poll\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C099220-10F7-4DB4-9986-E62B4F9AC52A}|Presentation.csproj|solutionrelative:views\\poll\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60322AD5-7257-4D94-9574-0BC4855A6229}|..\\DataAccess\\DataAccess.csproj|c:\\users\\matti\\desktop\\assignment enterprise\\dataaccess\\datacontext\\polldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60322AD5-7257-4D94-9574-0BC4855A6229}|..\\DataAccess\\DataAccess.csproj|c:\\users\\matti\\desktop\\assignment enterprise\\dataaccess\\repositories\\voterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B616542-90CE-4F01-952D-10394FCAAB21}|..\\Domain\\Domain.csproj|c:\\users\\matti\\desktop\\assignment enterprise\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C099220-10F7-4DB4-9986-E62B4F9AC52A}|Presentation.csproj|c:\\users\\matti\\desktop\\assignment enterprise\\presentation\\views\\poll\\results.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C099220-10F7-4DB4-9986-E62B4F9AC52A}|Presentation.csproj|solutionrelative:views\\poll\\results.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C099220-10F7-4DB4-9986-E62B4F9AC52A}|Presentation.csproj|c:\\users\\matti\\desktop\\assignment enterprise\\presentation\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C099220-10F7-4DB4-9986-E62B4F9AC52A}|Presentation.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C099220-10F7-4DB4-9986-E62B4F9AC52A}|Presentation.csproj|c:\\users\\matti\\desktop\\assignment enterprise\\presentation\\views\\poll\\vote.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C099220-10F7-4DB4-9986-E62B4F9AC52A}|Presentation.csproj|solutionrelative:views\\poll\\vote.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C099220-10F7-4DB4-9986-E62B4F9AC52A}|Presentation.csproj|c:\\users\\matti\\desktop\\assignment enterprise\\presentation\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C099220-10F7-4DB4-9986-E62B4F9AC52A}|Presentation.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C099220-10F7-4DB4-9986-E62B4F9AC52A}|Presentation.csproj|c:\\users\\matti\\desktop\\assignment enterprise\\presentation\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C099220-10F7-4DB4-9986-E62B4F9AC52A}|Presentation.csproj|solutionrelative:areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C099220-10F7-4DB4-9986-E62B4F9AC52A}|Presentation.csproj|c:\\users\\matti\\desktop\\assignment enterprise\\presentation\\models\\pollcreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C099220-10F7-4DB4-9986-E62B4F9AC52A}|Presentation.csproj|solutionrelative:models\\pollcreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C099220-10F7-4DB4-9986-E62B4F9AC52A}|Presentation.csproj|c:\\users\\matti\\desktop\\assignment enterprise\\presentation\\views\\poll\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C099220-10F7-4DB4-9986-E62B4F9AC52A}|Presentation.csproj|solutionrelative:views\\poll\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C099220-10F7-4DB4-9986-E62B4F9AC52A}|Presentation.csproj|c:\\users\\matti\\desktop\\assignment enterprise\\presentation\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C099220-10F7-4DB4-9986-E62B4F9AC52A}|Presentation.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\matti\\Desktop\\assignment enterprise\\DataAccess\\Migrations\\20250404192452_SecondMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60322AD5-7257-4D94-9574-0BC4855A6229}|..\\DataAccess\\DataAccess.csproj|c:\\users\\matti\\desktop\\assignment enterprise\\dataaccess\\migrations\\20250404215125_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,7 +100,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 25,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,210 +112,320 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ConfirmEmail.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\matti\\Desktop\\assignment enterprise\\Presentation\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
-              "ToolTip": "C:\\Users\\matti\\Desktop\\assignment enterprise\\Presentation\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAAwC0AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "HasNotVotedFilter.cs",
+              "DocumentMoniker": "C:\\Users\\matti\\Desktop\\assignment enterprise\\Presentation\\HasNotVotedFilter.cs",
+              "RelativeDocumentMoniker": "HasNotVotedFilter.cs",
+              "ToolTip": "C:\\Users\\matti\\Desktop\\assignment enterprise\\Presentation\\HasNotVotedFilter.cs",
+              "RelativeToolTip": "HasNotVotedFilter.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswBMAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T00:48:13.045Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ConfirmEmail.cshtml",
-              "DocumentMoniker": "C:\\Users\\matti\\Desktop\\assignment enterprise\\Presentation\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
-              "ToolTip": "C:\\Users\\matti\\Desktop\\assignment enterprise\\Presentation\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-04T00:47:03.303Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Register.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\matti\\Desktop\\assignment enterprise\\Presentation\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ToolTip": "C:\\Users\\matti\\Desktop\\assignment enterprise\\Presentation\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ViewState": "AgIAAKIAAAAAAAAAAAAgwIMAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T00:40:07.166Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "RegisterConfirmation.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\matti\\Desktop\\assignment enterprise\\Presentation\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
-              "ToolTip": "C:\\Users\\matti\\Desktop\\assignment enterprise\\Presentation\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAwwAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T00:31:44.982Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "RegisterConfirmation.cshtml",
-              "DocumentMoniker": "C:\\Users\\matti\\Desktop\\assignment enterprise\\Presentation\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
-              "ToolTip": "C:\\Users\\matti\\Desktop\\assignment enterprise\\Presentation\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAiwBYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-04T00:26:32.114Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\matti\\Desktop\\assignment enterprise\\Presentation\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\matti\\Desktop\\assignment enterprise\\Presentation\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-04T00:18:56.942Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\matti\\Desktop\\assignment enterprise\\Presentation\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\matti\\Desktop\\assignment enterprise\\Presentation\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-04T00:10:18.142Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\matti\\Desktop\\assignment enterprise\\Presentation\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\matti\\Desktop\\assignment enterprise\\Presentation\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-04T00:09:43.827Z",
+              "WhenOpened": "2025-04-05T14:52:47.113Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\matti\\Desktop\\assignment enterprise\\Presentation\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "C:\\Users\\matti\\Desktop\\assignment enterprise\\Presentation\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-04T00:05:47.274Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\matti\\Desktop\\assignment enterprise\\Presentation\\ScaffoldingReadMe.txt",
-              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\matti\\Desktop\\assignment enterprise\\Presentation\\ScaffoldingReadMe.txt",
-              "RelativeToolTip": "ScaffoldingReadMe.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-04-04T00:05:28.441Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\matti\\Desktop\\assignment enterprise\\Presentation\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\matti\\Desktop\\assignment enterprise\\Presentation\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "wwwroot\\css\\site.css",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAAwDcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-04-03T23:25:08.492Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\matti\\Desktop\\assignment enterprise\\Presentation\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\matti\\Desktop\\assignment enterprise\\Presentation\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-03T23:15:00.752Z",
+              "WhenOpened": "2025-04-05T13:03:25.487Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\matti\\Desktop\\assignment enterprise\\Presentation\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\matti\\Desktop\\assignment enterprise\\Presentation\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAwCIAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-03T23:10:38.836Z",
+              "DocumentIndex": 8,
+              "Title": "polls.json",
+              "DocumentMoniker": "C:\\Users\\matti\\Desktop\\assignment enterprise\\Presentation\\polls.json",
+              "RelativeDocumentMoniker": "polls.json",
+              "ToolTip": "C:\\Users\\matti\\Desktop\\assignment enterprise\\Presentation\\polls.json",
+              "RelativeToolTip": "polls.json",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-05T12:45:33.984Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\matti\\Desktop\\assignment enterprise\\Presentation\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\matti\\Desktop\\assignment enterprise\\Presentation\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-03T23:10:31.176Z",
+              "DocumentIndex": 2,
+              "Title": "PollFileRepository.cs",
+              "DocumentMoniker": "C:\\Users\\matti\\Desktop\\assignment enterprise\\DataAccess\\Repositories\\PollFileRepository.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess\\Repositories\\PollFileRepository.cs",
+              "ToolTip": "C:\\Users\\matti\\Desktop\\assignment enterprise\\DataAccess\\Repositories\\PollFileRepository.cs",
+              "RelativeToolTip": "..\\DataAccess\\Repositories\\PollFileRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvxcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T12:17:33.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPollRepository.cs",
+              "DocumentMoniker": "C:\\Users\\matti\\Desktop\\assignment enterprise\\Domain\\Interfaces\\IPollRepository.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Interfaces\\IPollRepository.cs",
+              "ToolTip": "C:\\Users\\matti\\Desktop\\assignment enterprise\\Domain\\Interfaces\\IPollRepository.cs",
+              "RelativeToolTip": "..\\Domain\\Interfaces\\IPollRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T12:16:09.902Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\matti\\Desktop\\assignment enterprise\\Presentation\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\matti\\Desktop\\assignment enterprise\\Presentation\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T23:09:38.956Z",
+              "Title": "Domain",
+              "DocumentMoniker": "C:\\Users\\matti\\Desktop\\assignment enterprise\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "..\\Domain\\Domain.csproj",
+              "ToolTip": "C:\\Users\\matti\\Desktop\\assignment enterprise\\Domain\\Domain.csproj",
+              "RelativeToolTip": "..\\Domain\\Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-05T12:15:44.618Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 19,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\matti\\Desktop\\assignment enterprise\\Presentation\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ToolTip": "C:\\Users\\matti\\Desktop\\assignment enterprise\\Presentation\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA1wCIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T00:43:06.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Results.cshtml",
+              "DocumentMoniker": "C:\\Users\\matti\\Desktop\\assignment enterprise\\Presentation\\Views\\Poll\\Results.cshtml",
+              "RelativeDocumentMoniker": "Views\\Poll\\Results.cshtml",
+              "ToolTip": "C:\\Users\\matti\\Desktop\\assignment enterprise\\Presentation\\Views\\Poll\\Results.cshtml",
+              "RelativeToolTip": "Views\\Poll\\Results.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T00:18:59.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Vote.cshtml",
+              "DocumentMoniker": "C:\\Users\\matti\\Desktop\\assignment enterprise\\Presentation\\Views\\Poll\\Vote.cshtml",
+              "RelativeDocumentMoniker": "Views\\Poll\\Vote.cshtml",
+              "ToolTip": "C:\\Users\\matti\\Desktop\\assignment enterprise\\Presentation\\Views\\Poll\\Vote.cshtml",
+              "RelativeToolTip": "Views\\Poll\\Vote.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T00:07:07.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "VoteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\matti\\Desktop\\assignment enterprise\\DataAccess\\Repositories\\VoteRepository.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess\\Repositories\\VoteRepository.cs",
+              "ToolTip": "C:\\Users\\matti\\Desktop\\assignment enterprise\\DataAccess\\Repositories\\VoteRepository.cs",
+              "RelativeToolTip": "..\\DataAccess\\Repositories\\VoteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T23:57:50.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PollCreateViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\matti\\Desktop\\assignment enterprise\\Presentation\\Models\\PollCreateViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\PollCreateViewModel.cs",
+              "ToolTip": "C:\\Users\\matti\\Desktop\\assignment enterprise\\Presentation\\Models\\PollCreateViewModel.cs",
+              "RelativeToolTip": "Models\\PollCreateViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T22:06:28.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20250404215125_FirstMigration.cs",
+              "DocumentMoniker": "C:\\Users\\matti\\Desktop\\assignment enterprise\\DataAccess\\Migrations\\20250404215125_FirstMigration.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess\\Migrations\\20250404215125_FirstMigration.cs",
+              "ToolTip": "C:\\Users\\matti\\Desktop\\assignment enterprise\\DataAccess\\Migrations\\20250404215125_FirstMigration.cs",
+              "RelativeToolTip": "..\\DataAccess\\Migrations\\20250404215125_FirstMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T21:51:25.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\matti\\Desktop\\assignment enterprise\\Presentation\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\matti\\Desktop\\assignment enterprise\\Presentation\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAAGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-04T20:27:05.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\matti\\Desktop\\assignment enterprise\\Presentation\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\matti\\Desktop\\assignment enterprise\\Presentation\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCYAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAADwAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T22:43:47.963Z",
+              "WhenOpened": "2025-04-04T19:34:36.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\matti\\Desktop\\assignment enterprise\\Presentation\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\matti\\Desktop\\assignment enterprise\\Presentation\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T19:33:05.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\matti\\Desktop\\assignment enterprise\\Presentation\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\matti\\Desktop\\assignment enterprise\\Presentation\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T19:32:31.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\matti\\Desktop\\assignment enterprise\\Presentation\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\matti\\Desktop\\assignment enterprise\\Presentation\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T19:32:27.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\matti\\Desktop\\assignment enterprise\\Presentation\\Views\\Poll\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Poll\\Create.cshtml",
+              "ToolTip": "C:\\Users\\matti\\Desktop\\assignment enterprise\\Presentation\\Views\\Poll\\Create.cshtml",
+              "RelativeToolTip": "Views\\Poll\\Create.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAiwDAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T19:32:13.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "index.cshtml",
+              "DocumentMoniker": "C:\\Users\\matti\\Desktop\\assignment enterprise\\Presentation\\Views\\Poll\\index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Poll\\index.cshtml",
+              "ToolTip": "C:\\Users\\matti\\Desktop\\assignment enterprise\\Presentation\\Views\\Poll\\index.cshtml",
+              "RelativeToolTip": "Views\\Poll\\index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T19:30:22.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20250404192452_SecondMigration.cs",
+              "DocumentMoniker": "C:\\Users\\matti\\Desktop\\assignment enterprise\\DataAccess\\Migrations\\20250404192452_SecondMigration.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess\\Migrations\\20250404192452_SecondMigration.cs",
+              "ToolTip": "C:\\Users\\matti\\Desktop\\assignment enterprise\\DataAccess\\Migrations\\20250404192452_SecondMigration.cs",
+              "RelativeToolTip": "..\\DataAccess\\Migrations\\20250404192452_SecondMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T19:24:52.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PollDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\matti\\Desktop\\assignment enterprise\\DataAccess\\DataContext\\PollDbContext.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess\\DataContext\\PollDbContext.cs",
+              "ToolTip": "C:\\Users\\matti\\Desktop\\assignment enterprise\\DataAccess\\DataContext\\PollDbContext.cs",
+              "RelativeToolTip": "..\\DataAccess\\DataContext\\PollDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T19:21:56.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Vote.cs",
+              "DocumentMoniker": "C:\\Users\\matti\\Desktop\\assignment enterprise\\Domain\\Models\\Vote.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Models\\Vote.cs",
+              "ToolTip": "C:\\Users\\matti\\Desktop\\assignment enterprise\\Domain\\Models\\Vote.cs",
+              "RelativeToolTip": "..\\Domain\\Models\\Vote.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T18:38:36.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Poll.cs",
+              "DocumentMoniker": "C:\\Users\\matti\\Desktop\\assignment enterprise\\Domain\\Models\\Poll.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Models\\Poll.cs",
+              "ToolTip": "C:\\Users\\matti\\Desktop\\assignment enterprise\\Domain\\Models\\Poll.cs",
+              "RelativeToolTip": "..\\Domain\\Models\\Poll.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA7wCEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T18:38:32.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PollController.cs",
+              "DocumentMoniker": "C:\\Users\\matti\\Desktop\\assignment enterprise\\Presentation\\Controllers\\PollController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PollController.cs",
+              "ToolTip": "C:\\Users\\matti\\Desktop\\assignment enterprise\\Presentation\\Controllers\\PollController.cs",
+              "RelativeToolTip": "Controllers\\PollController.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAawGcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T18:29:10.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PollRepository.cs",
+              "DocumentMoniker": "C:\\Users\\matti\\Desktop\\assignment enterprise\\DataAccess\\Repositories\\PollRepository.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess\\Repositories\\PollRepository.cs",
+              "ToolTip": "C:\\Users\\matti\\Desktop\\assignment enterprise\\DataAccess\\Repositories\\PollRepository.cs",
+              "RelativeToolTip": "..\\DataAccess\\Repositories\\PollRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T16:37:41.075Z",
               "EditorCaption": ""
             }
           ]

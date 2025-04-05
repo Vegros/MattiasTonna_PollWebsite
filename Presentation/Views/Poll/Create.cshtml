@@ -1,0 +1,52 @@
+﻿@model Presentation.Models.PollCreateViewModel
+
+@{
+    ViewData["Title"] = "Create a Poll";
+}
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
+
+<div class="container d-flex justify-content-center align-items-center" style="min-height: 90vh;">
+    <div class="frosted-glass text-white p-4 p-md-5" style="width: 100%; max-width: 600px;">
+        <h2 class="text-center fw-bold mb-4">Create a New Poll</h2>
+
+        @if (TempData["error"] != null)
+        {
+            <div class="alert alert-danger">@TempData["error"]</div>
+        }
+
+        <form asp-action="Create" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+
+            <div class="form-group mb-3">
+                <label asp-for="Title" class="form-label"></label>
+                <input asp-for="Title" class="form-control text-dark" />
+                <span asp-validation-for="Title" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="Option1Text" class="form-label"></label>
+                <input asp-for="Option1Text" class="form-control text-dark" />
+                <span asp-validation-for="Option1Text" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="Option2Text" class="form-label"></label>
+                <input asp-for="Option2Text" class="form-control text-dark" />
+                <span asp-validation-for="Option2Text" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-4">
+                <label asp-for="Option3Text" class="form-label"></label>
+                <input asp-for="Option3Text" class="form-control text-dark" />
+                <span asp-validation-for="Option3Text" class="text-danger"></span>
+            </div>
+
+            <div class="text-center">
+                <button type="submit" class="btn btn-primary btn-lg glowing-btn px-4 py-2">Create Poll</button>
+                <a asp-action="Index" class="btn btn-outline-light ms-3">Cancel</a>
+            </div>
+        </form>
+    </div>
+</div>

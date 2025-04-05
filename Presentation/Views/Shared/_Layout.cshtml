@@ -6,8 +6,9 @@
     <title>@ViewData["Title"] - MattiasTonnaEPSolution</title>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" rel="stylesheet">
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
-    <link rel="stylesheet" href="~/MattiasTonnaEPSolution.styles.css" asp-append-version="true" />
+    @* <link rel="stylesheet" href="~/MattiasTonnaEPSolution.styles.css" asp-append-version="true" /> *@
 
 </head>
 <body>
@@ -31,9 +32,10 @@
                                 </span>
                             </li>
                             <li class="nav-item">
-                                <form class="form-inline" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Page("/", new { area = "" })" method="post">
-                                    <button type="submit" class="nav-link btn btn-link text-white">Logout</button>
+                                <form id="logoutForm" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="/" method="post">
+                                    <button type="submit" class="btn btn-link nav-link">Logout</button>
                                 </form>
+
                             </li>
                         }
                         else

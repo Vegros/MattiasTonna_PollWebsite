@@ -5,6 +5,10 @@ using Domain.Models;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.AspNetCore.Identity.UI;
+using DataAccess.Repositories;
+using Presentation.Controllers;
+using Domain.Interfaces;
+using Presentation;
 
 namespace MattiasTonnaEPSolution
 {
@@ -24,9 +28,37 @@ namespace MattiasTonnaEPSolution
             builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
                 .AddEntityFrameworkStores<PollDbContext>();
 
+
+            int dbSetting = 1;
+            try
+            {
+                dbSetting = builder.Configuration.GetValue<int>("DbSetting");
+            }
+            catch
+            {
+                dbSetting = 0;
+            }
+
+            switch (dbSetting)
+            {
+                case 0:
+                    builder.Services.AddScoped<IPollRepository, PollRepository>();
+                    break;
+
+                case 1:
+                    builder.Services.AddScoped<IPollRepository, PollFileRepository>();
+                    break;
+
+                default:
+                    builder.Services.AddScoped<IPollRepository, PollRepository>();
+                    break;
+            }
+
+            builder.Services.AddScoped<VoteRepository>();
             builder.Services.AddControllersWithViews();
             builder.Services.AddRazorPages();
-
+            builder.Logging.AddConsole();
+            builder.Services.AddScoped<HasNotVotedFilter>();
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.

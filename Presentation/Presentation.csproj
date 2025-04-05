@@ -8,6 +8,8 @@
 
   <ItemGroup>
     <Folder Include="Domain\" />
+    <Folder Include="Views\Result\" />
+    <Folder Include="Views\Vote\" />
   </ItemGroup>
 
   <ItemGroup>
